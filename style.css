@@ -1,4 +1,10 @@
 @charset "UTF-8";
 body{
-    background-image: linear-gradient(to right, orange, transparent);
+background-color: black;
+}
+header{
+max-width:400px ;
+width: 100px;
+background-color: white;
+text-align: center;
 }
