@@ -9,6 +9,13 @@ header{
 text-align: center;
 
 }
+h1{
+    color: gray;
+}
+
+p{
+    color: gray;
+}
 nav{
     background-image: linear-gradient(to right, red, rgba(0, 0, 0, 0.521) );
     text-align: center;
@@ -18,7 +25,7 @@ nav{
     
 }
 nav > a{
-    color: black;
+    color:gray;
     text-decoration: none;
     transition-duration: 0.5s;
     font-weight: bold;
